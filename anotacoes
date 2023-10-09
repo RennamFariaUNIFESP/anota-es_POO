@@ -1,0 +1,6 @@
+Quando a gente for remover um usuario de um banco de dados nós não removemos o usuario, apenas deixamos uma flag que nao esta mais cadastrado
+mas nesse caso do exercicio, vamos remover o usuario
+
+agora implementando no banco de dados, iremos ao inves de salvar na memoria curto prazo de POO
+iremos usar o banco de dados, pelas tabelas
+ao inves de fazer push em um array, iremos colocar no banco de dados
